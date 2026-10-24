@@ -106,7 +106,7 @@ Project Status
 
 Learning about DNA, its structure, nucleotide composition, and its role in storing genetic information.
 
-3. Introduction to Bioinformatics
+3.Introduction to Bioinformatics
 
 Exploring how computational tools and biological databases help researchers study DNA and genes.
 
