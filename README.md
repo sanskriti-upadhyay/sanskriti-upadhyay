@@ -125,7 +125,7 @@ I look forward to documenting my progress and sharing my learning journey throug
 
 - University: Lovely Professional University (LPU)
 - Degree: B.Tech Biotechnology
-- GitHub: [Add your GitHub profile link]
+- GitHub: https://sanskriti-upadhyay.github.io/sanskriti-upadhyay/
 - Email: [upadhyay.sanskriti18@gmail.com
 
 ---
