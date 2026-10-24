@@ -1,13 +1,8 @@
 Sanskriti Upadhyay
+Btech biotechnology student
+ Aspiring Bioinformatics Professional
 
-B.Tech Biotechnology Student | Aspiring Bioinformatics Professional
-
-Welcome to my portfolio! I am a first-year B.Tech Biotechnology student at Lovely Professional University (LPU). I am interested in learning how biology, technology, and computer science work together to solve real-world problems.
-
-I am at the beginning of my academic journey and look forward to developing my knowledge through coursework, practical experiments, and projects.
-
----
-
+ 
 🎓 About Me
 
 Hello! I am a first-year B.Tech Biotechnology student at Lovely Professional University (LPU). I am interested in learning about biotechnology, genetics, molecular biology, and how science can be used to solve real-world problems.
