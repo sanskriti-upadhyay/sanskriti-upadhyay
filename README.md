@@ -1,7 +1,4 @@
 Sanskriti Upadhyay
-Btech biotechnology student
-Aspiring Bioinformatics Professional
-
  
 🎓 About Me
 
